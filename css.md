@@ -58,9 +58,16 @@ On ne peut pas présenter toutes les règles mais le but est de donner une base 
 
 ## Notions avancées
 
-- Media query
+- !important, prefixage, ... (problème de rendu sur les différents navigateurs)
+- Media query/Responsive design
 - Transitions
 - Animations
+
+## En pratique (les astuces en pratiques du CSS)
+
+- Système de grille (grid)
+- Sprites
+- fonticon
 
 ## "Bonnes Pratiques" <= renommer ça parceque ça fait genre j'impose la manière de faire les choses :)
 
